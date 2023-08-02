@@ -8,3 +8,4 @@ This application is a React Website to show movie that got best rating in. Tha A
 
 ## Final Product
 
+<img src="https://github.com/devRyanChoi/movie-app/blob/main/docs/screenshot.png?raw=true"  width="700" height="370">
