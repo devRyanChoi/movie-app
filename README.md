@@ -4,7 +4,7 @@ React JS Fundamentals
 
 ## Project Description
 
-This application is a React Website to show movie that got best rating in. Tha App utilizes Reqct built-in and custom hooks. 
+This is a React One page Application to show movies that got best rating in. Tha App utilizes React built-in and custom hooks. 
 
 ## Final Product
 
